@@ -13,6 +13,3 @@ Iniciando minha jornada no mundo de TI e na DIO.
 ## Bootcamps e Certificações
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;width: 150px;" src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png">
 
-## Minhas contribuições 
-
-A desenvolver.
